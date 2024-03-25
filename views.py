@@ -1,0 +1,1 @@
+while len(fib) < n:
